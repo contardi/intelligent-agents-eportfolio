@@ -126,9 +126,8 @@ Below is a brief overview of each unit and its artifacts:
 
 #### Activities
 
-**Creating Agent Dialogues**
-[**KQML**](unit-06/kqml-dialogue.md)
-[**KIF**](unit-06/kif-dialogue.md)
+**Creating Agent Dialogues**  
+[**KQML**](unit-06/kqml-dialogue.md) - [**KIF**](unit-06/kif-dialogue.md)
 
 **Development Team Project: Project Report**  
 [**Digital Forensics: The role of autonomous verification agents in reducing malware risks and ensuring compliance**](unit-06/team-project-report.pdf)
@@ -162,6 +161,8 @@ Below is a brief overview of each unit and its artifacts:
 - Engage with worked examples of common NLP methods
 - Develop parse trees to support the understanding of NLP
 
+#### Activities
+
 [**Constituency-Based Parse Trees**](unit-08/constituency-parse-trees.md)
 
 
@@ -193,7 +194,7 @@ Below is a brief overview of each unit and its artifacts:
 
 #### Activities
 
-**Deep Learning in Action**
+**Deep Learning in Action**  
 [**Deepfake detection systems using deep learning**](unit-10/deep-learning-in-action.md)
 
 
@@ -235,8 +236,8 @@ Below is a brief overview of each unit and its artifacts:
 
 #### Activities
 
-[**Journal Entries**](unit-12/journal-entries.pdf)
-**E-Portfolio** 
+[**Journal Entries**](unit-12/journal-entries.pdf)  
+**E-Portfolio** (This repository)
 
 
 ---

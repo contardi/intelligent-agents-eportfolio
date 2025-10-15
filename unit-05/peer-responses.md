@@ -1,4 +1,4 @@
-by Rayyan Mohamed Abdalla Alshambeeli Alnaqbi
+by Alnaqbi, R
 
 Hi Thiago,
 
@@ -18,7 +18,7 @@ Searle, J.R. (1969) ‘Speech acts: An essay in the philosophy of language’, C
 --------
 
 
-by Paul Dogar
+by Dogar, P
 
 Thiago’s post and Rayyan’s response together capture the core distinction between ACLs and method invocation, as well as the evolving role of protocols like MCP. The grounding in speech act theory (Searle, 1969) emphasises how ACLs enable meaningful, intention-driven exchanges, which is vital for heterogeneous environments (Finin et al., 1994). Rayyan rightly stresses the persistent issue of ontology alignment, since mismatched terms can undermine communication and coordination (Payne and Tamma, 2014).
 

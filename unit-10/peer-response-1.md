@@ -1,4 +1,4 @@
-by Ana-Maria Stoica
+by Stoica, A
 
 The rise of deep learning models may feel like an old story, simply because the pace of innovation has been so fast. Image generation has evolved from the amusing experiments of early tools like DALL-E 2, which produced strange but entertaining images to share with friends, into a flood of platforms and mobile applications capable of creating content so realistic that scrolling through social media now demands extra attention just to be able to identify whether or not what we see is real.
 
@@ -25,7 +25,7 @@ The Guardian (2023) ‘AI song featuring fake Drake and Weeknd vocals pulled fro
 
 ## Peer Response
 
-Hi Ana-Maria,
+Hi Stoica,
 
 You raise crucial concerns about the erosion of authenticity and artistic integrity in the age of deep learning. I agree that the realism of AI-generated media now challenges our ability to discern truth from fabrication, a phenomenon Verdoliva (2020) also describes as a “forensic arms race” between content creation and detection tools.
 

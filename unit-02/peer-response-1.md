@@ -1,4 +1,4 @@
-by Mansour Saeed Mubarak Hamdan Al Hamdani  
+by Hamdani, M  
 
 ## The Rise of Agent-Based Systems and Their Benefits to Organizations
 

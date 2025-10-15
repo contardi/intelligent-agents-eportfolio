@@ -1,4 +1,4 @@
-by Pëllumb Dalipi
+by Dalipi, P
 
 Deep learning now produces various content such as text, images or music that appear human-made. These developments do create a central issue in the consideration of authorship. Generative systems rely on vast datasets of content that was initially created by humans. The link between those inputs and ownership of outputs is unclear, which strains copyright’s tests for human creativity and control (Lim, 2023; Al-Busaidi, 2024).
 
@@ -27,7 +27,7 @@ Wei, X., et al. (2025). Addressing bias in generative AI. Information & Manageme
 
 ## Peer Response
 
-Hi Pëllumb,
+Hi by Dalipi,
 
 You’ve drawn a vital connection between authorship, authenticity, and bias in deep learning. I agree that generative systems challenge existing copyright frameworks because ownership of model outputs rarely maps cleanly to human creativity or control (Lim, 2023). One practical response may be to expand dataset disclosure and traceability, similar to data statements used in natural language processing, which describe dataset origins, licences, and demographic composition. Such transparency would help regulators and creators assess whether AI-generated outputs derive from protected material (Bender and Friedman, 2018).
 

@@ -1,4 +1,4 @@
-by Ana-Maria Stoica 
+by Stoica, A 
 
 Agents are computer systems that are capable of acting autonomously to achieve their design objectives in the environment in which they are present. This autonomy sits at the core of agency, enabling the systems to perceive their environment, react to changes, and pursue their goal proactively. A key difference from objects in object-oriented programming (OOP) is that agents maintain control over whether or not they execute actions (Wooldridge, 2009). Multiagent systems are composed of several interacting agents, which can cooperate and coordinate, and ultimately make decisions, all with the purpose of achieving their goals (Drasko and Rakic, 2024).
 

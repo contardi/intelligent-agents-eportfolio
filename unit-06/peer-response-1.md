@@ -1,4 +1,4 @@
-by Paul Dogar
+by Dogar, P
 
 Agent Communication Languages, exemplified by KQML and FIPA-ACL frameworks, provide sophisticated communicative capabilities for multi-agent architectures through their foundation in speech-act theory. These languages facilitate high-level semantic exchanges via performative constructs such as inform, request, and propose, enabling agents to engage in complex dialogical reasoning about communicative intentions and contextual meaning (Labrou and Finin, 1998). The strength of ACLs lies in their capacity to support loose coupling and platform independence, making them particularly valuable in heterogeneous distributed systems where participating agents may operate under different architectural assumptions and knowledge representations (Foundation for Intelligent Physical Agents, 1997).  
 

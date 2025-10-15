@@ -1,4 +1,4 @@
-by Mohamed Khaled Eissa Almail Alzaabi
+by Alzaabi, M
 
 ## Agent-Based Systems
 
